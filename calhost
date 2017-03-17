@@ -1,0 +1,16 @@
+                                                  List of databases
+                   Name                    |  Owner   | Encoding |   Collate   |    Ctype    |   Access privileges   
+-------------------------------------------+----------+----------+-------------+-------------+-----------------------
+ WebSpotify_sinatra_assessment_development | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ bitly-clone_development                   | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ joshua                                    | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ postgres                                  | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ quora-clone_development                   | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ template0                                 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+                                           |          |          |             |             | postgres=CTc/postgres
+ template1                                 | postgres | UTF8     | en_US.UTF-8 | en_US.UTF-8 | =c/postgres          +
+                                           |          |          |             |             | postgres=CTc/postgres
+ url_shortener_development                 | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+ url_shortener_test                        | joshua   | UTF8     | en_US.UTF-8 | en_US.UTF-8 | 
+(9 rows)
+
